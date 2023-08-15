@@ -1,0 +1,18 @@
+#calender1
+{
+    width: 100%;
+}
+#calender1 th,
+#calender1 td
+{
+    border: 1px solid black;
+    text-align: center;
+}
+#calender1 th:first-child, td:first-child
+{
+    color: red;
+}
+#calender1 th:last-child, td:last-child
+{
+    color: blue;
+}
